@@ -1,0 +1,23 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+  }
+  
+  input, select, button {
+    margin: 10px 0;
+    padding: 8px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
